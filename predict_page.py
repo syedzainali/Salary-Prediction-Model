@@ -31,13 +31,13 @@ def show_predict_page():
         'Australia',                                                 
         'Brazil',                                                    
         'Spain',                                                     
-        'Sweden',                                                    
+        #'Sweden',                                                    
         'Italy',                                                     
-        'Poland',                                                    
-        'Switzerland',                                               
-        'Denmark',                                                   
-        'Norway',                                                    
-        'Israel',
+        #'Poland',                                                    
+        #'Switzerland',                                               
+        #'Denmark',                                                   
+        #'Norway',                                                    
+        #'Israel',
     )
 
     education = (
